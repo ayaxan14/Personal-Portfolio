@@ -1,2 +1,2 @@
 # Personal-Portfolio
-First project chosen my copilot to test my knowledge. Currently started learning html a day ago and finding ways to effectively learn.
+First project chosen my copilot to test my knowledge. Currently started learning html a day ago and finding ways to effectively learn. I'll try to include all the knowledge from what I learnt today and yesterday. When I actually make my own project, i get curious and very interested, so that's what I'm trying to do, to get myself more interested in learning. I might make some mistakes, well I hope I do, since it will help me improve. That's all, bye.
